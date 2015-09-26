@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="names">
+        <item>Brasil</item>
+        <item>Venezuela</item>
+    </array>
+    <array name="capitals">
+        <item>Brasilia</item>
+        <item>Caracas</item>
+    </array>
+</resources>
